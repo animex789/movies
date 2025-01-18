@@ -9,7 +9,7 @@
 ## **𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠**
 
 `/commands` Enter this command inside the bot and all the commands will be set automatically.
-<img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
+<img src="https://ibb.co/B4ytQc9"/>
 
 ## **Futures**
 <details><summary>Check Bot Futures</summary>
