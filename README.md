@@ -2,7 +2,7 @@
   <img src="https://ibb.co/B4ytQc9">
 </p>
 <h1 align="center">
-  <a href="https://t.me/developerZXCiX">Movie/Auto Filter Bot</a>
+  <a href="https://t.me/JISSHU_BOTS">Movie/Auto Filter Bot</a>
 </h1>
 <img src="https://ibb.co/B4ytQc9"/>
 
