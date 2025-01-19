@@ -109,7 +109,7 @@ User - {}"""
     IMDB_TEMPLATE_TXT = """<b>backupzone\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Xbackupzonez">Xbackupzonez</a>」</b>"""
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
 
-🍿 Title: {title}
+🎁 Title: {title}
 🎃 Genres: {genres}
 📆 Year: {release_date}
 ⭐ Rating: {rating} / 10</b>
