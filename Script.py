@@ -106,7 +106,7 @@ User - {}"""
 
 🎁 ʀᴇǫᴜᴇꜱᴛ ᴍꜱɢ - <code>{}</code></b>"""  
    
-    IMDB_TEMPLATE_TXT = """
+    IMDB_TEMPLATE_TXT = """<b>backupzone\n\n𝖩𝗈𝗂𝗇➥ 「<a href="https://t.me/Xbackupzonez">Xbackupzonez</a>」</b>"""
 <b>ʜᴇʏ {message.from_user.mention}, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ʀᴇꜱᴜʟᴛꜱ ꜰᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {search}.
 
 🍿 Title: {title}
