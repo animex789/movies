@@ -13,9 +13,9 @@ def is_enabled(value, default):
 #---------------------------------------------------------------
 #---------------------------------------------------------------         ,
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID', ''))
-API_HASH = environ.get('API_HASH', '')
-BOT_TOKEN = environ.get('BOT_TOKEN', '')
+API_ID = int(environ.get('API_ID', '22004968'))
+API_HASH = environ.get('API_HASH', 'f8b1697bee0a94643d9f28c67af49ab1')
+BOT_TOKEN = environ.get('BOT_TOKEN', '8012699592:AAH2D7y37YpzLh-ReE0zVdhGUqNJN1zWDGc')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '6195556018').split()]
@@ -25,8 +25,8 @@ MOVIE_GROUP_LINK = environ.get('MOVIE_GROUP_LINK', 'https://t.me/+V7c6rfdKuBphZW
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '--1002450823900').split()]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Hustle656:Hustle656@hustle656.0xlot.mongodb.net/?retryWrites=true&w=majority&appName=Hustle656")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Hustle656")
+DATABASE_URI = environ.get('DATABASE_URI', "crate://admin:pradeep12345678901234567@johnsnow.eks1.us-east-1.aws.cratedb.net:4200?ssl=true")
+DATABASE_NAME = environ.get('DATABASE_NAME', "admin")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 #---------------------------------------------------------------
 #---------------------------------------------------------------
